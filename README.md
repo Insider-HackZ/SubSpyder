@@ -2,6 +2,8 @@
 
 SubSpyder is a Bash script designed for efficient subdomain enumeration and live domain verification. It uses a combination of open-source tools and APIs to find subdomains and check if they are accessible. The script supports multithreading for faster live domain checks and saves the results in specified output folders.
 
+https://github.com/user-attachments/assets/b357037b-c01f-4d36-ad1e-00ebfb6144ef
+
 ## Features
 
 - **Subdomain Enumeration**: Uses multiple tools (`crt.sh`, `amass`, `findomain`, `subfinder`, `assetfinder`, and `abuseipdb`) to discover subdomains.
